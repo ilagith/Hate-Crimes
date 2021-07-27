@@ -11,3 +11,6 @@ The chosen dataframe for this project is the Hate Crime Statistics dataset publi
 
 1. Would a newly reported hate crime contain single or multiple victims? 
 2. Would the newly reported hate crime consist of multiple offenses? (where multiple offenses mean; hate crime combined with other statutory crimes such as larceny, intimidation, robbery etc.)
+
+### Methodology 
+The process of data analysis is modeled by following the CRISP-DM model. First, the research questions were identified, followed by selecting the relevant and credible dataset (published by FBI, USA). Once cleaned the data, an exploratory data analysis was conducted. Hence, data were prepared for modeling and evaluation.  
