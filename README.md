@@ -14,3 +14,7 @@ The chosen dataframe for this project is the Hate Crime Statistics dataset publi
 
 ### Methodology 
 The process of data analysis is modeled by following the CRISP-DM model. First, the research questions were identified, followed by selecting the relevant and credible dataset (published by FBI, USA). Once cleaned the data, an exploratory data analysis was conducted. Hence, data were prepared for modeling and evaluation.  
+
+### Conclusion
+The models can accurately predict hate crimes with single victims in the US West region. If the model is fed with unseen data, it can accurately classify if the hate crime's victim is single.
+In addition, the models can accurately predict hate crimes with single offenses better than hate crimes with multiple offenses in the West. If the model is fed with unseen data, it can accurately classify if the offense of the hate crime is single or multiple.
