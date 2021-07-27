@@ -6,3 +6,8 @@ On March 16th this year, Trump called coronavirus a “Chinese virus” and inst
 
 ### The Dataset
 The chosen dataframe for this project is the Hate Crime Statistics dataset published by the FBI. It provides yearly statistics on the number of offenses committed, the number of incidents, offenders, and victims in crimes reported. The dataset, published on September 28, 2020, has 209443 rows and 28 columns containing hate crime records starting from 1991 till 2019. https://ucr.fbi.gov/hate-crime
+
+### Research Questions
+
+1. Would a newly reported hate crime contain single or multiple victims? 
+2. Would the newly reported hate crime consist of multiple offenses? (where multiple offenses mean; hate crime combined with other statutory crimes such as larceny, intimidation, robbery etc.)
