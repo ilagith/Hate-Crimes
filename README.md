@@ -18,3 +18,8 @@ The process of data analysis is modeled by following the CRISP-DM model. First, 
 ### Conclusion
 The models can accurately predict hate crimes with single victims in the US West region. If the model is fed with unseen data, it can accurately classify if the hate crime's victim is single.
 In addition, the models can accurately predict hate crimes with single offenses better than hate crimes with multiple offenses in the West. If the model is fed with unseen data, it can accurately classify if the offense of the hate crime is single or multiple.
+
+## Reference List 
+- Budiman, A., Tamir, C., Mora, L., & Noe-Bustamante, L. (2020, August 20). Facts on U.S. immigrants, 2018. Pew Research. https://www.pewresearch.org/hispanic/2020/08/20/facts-on-u-s-immigrants/
+- Federal Bureau Of Investigation (2020). Hate Crime [Data set]. FBI Uniform Crime Reporting Program. https://crime-data-explorer.fr.cloud.gov/downloads-and-docs
+- McNeil, T. (2020, September 24). The Long History of Xenophobia in America. Tufts Now. https://now.tufts.edu/articles/long-history-xenophobia-america
